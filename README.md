@@ -4,6 +4,10 @@ An editorial birthday design with ivory and rose colors, falling petals, interac
 
 This repository is a **visual showcase only**. It contains screenshots and this README. The implementation, deployment files, and assets are not distributed here. All previews use generic artwork and copy.
 
+## Get the code
+
+For the source code, email me at [nafismohtasimramim@gmail.com](mailto:nafismohtasimramim@gmail.com).
+
 ## Desktop
 
 ![Desktop preview](screenshots/desktop-hero.png)
